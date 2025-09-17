@@ -1,6 +1,6 @@
 # 💻 CodeCraft-SE  
 
-> A repository dedicated to **Software Engineering Best Practices**  from design patterns to clean code, scalable architectures, and professional development workflows.  
+> A repository dedicated to **Software Engineering Best Practices** — from design patterns to clean code, scalable architectures, and professional development workflows.  
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/CharlesMburuAssets/codecraft-se-banner/main/banner.gif" alt="CodeCraft-SE" width="800"/>
@@ -17,10 +17,20 @@ It’s not just about coding — it’s about:
 
 ---
 
-📜 License
+## 🤝 Contributing  
+We welcome contributions from the community!  
 
-This repository is licensed under the MIT License.
-Use, share, and learn freely.
+1. Fork the repo  
+2. Create a branch (`feature-x`)  
+3. Add examples, docs, or improvements  
+4. Submit a pull request  
 
 ---
-<p align="center"> 💻 CodeCraft-SE – From Code to Craftsmanship ✨ </p> ```
+
+## 📜 License  
+This repository is licensed under the **MIT License**.  
+Use, share, and learn freely.  
+
+---
+
+<p align="center"> 💻 CodeCraft-SE – From Code to Craftsmanship ✨ </p>
